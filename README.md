@@ -1,5 +1,13 @@
 # GenBI Pro – Generative AI Business Intelligence Platform
 
+## 🌐 Live Demo
+
+https://genbi-pro.streamlit.app/
+
+## GitHub Repository
+
+https://github.com/pranavireddy713/GenBI-Pro
+
 ## Overview
 
 GenBI Pro is an AI-powered Business Intelligence platform developed using Python, Streamlit, Machine Learning, and Google Gemini AI. The application enables users to upload datasets, perform automated data analysis, visualize business metrics, generate predictive insights, and interact with data through natural language queries.
