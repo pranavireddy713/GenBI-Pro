@@ -5,7 +5,7 @@ from google import genai
 from sklearn.ensemble import RandomForestRegressor
 
 client = genai.Client(
-    api_key="AQ.Ab8RN6IqrWjvysQzfnNfZmPjmysV52mzKff0UOP97nLONp5xOA"
+    api_key=st.secrets["GEMINI_API_KEY"]
 )
 
 # ---------------- PAGE CONFIG ----------------
